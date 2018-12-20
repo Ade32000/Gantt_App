@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Project Management",
+  "short_name": "Project Management",
+  "version": "io.cordova.hellocordova",
+  "description": "Application cordova / viewjs for mobile allowing to manage a project according to the method of Gantt.",
+  "author": "Adeline B.",
+  "icons": [],
+  "start_url": "index.html"
+}
